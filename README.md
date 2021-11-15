@@ -4,10 +4,10 @@
 
 
 <a href="https://www.linkedin.com/in/codekarsatvik/">
-  <img align="left" alt="Satvik's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Satvik's Linkdein" width="22px" style="color : white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/codekarsatvik">
-  <img align="left" alt="satvik's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="satvik's Github" width="22px" style="color : white"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 
@@ -39,11 +39,11 @@
 <a href="https://github.com/codekarsatvik">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codekarsatvik&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
-<!-- <a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codekarsatvik&repo=FlutterExampleApps&theme=light" />
+<a href="https://github.com/codekarsatvik/red-green">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codekarsatvik&repo=red-green&theme=light" />
 
 </a>
-<a href="https://github.com/iampawan/VelocityX">
+<!-- <a href="https://github.com/iampawan/VelocityX">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
 </a> -->
 
